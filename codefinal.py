@@ -1,8 +1,5 @@
 '''
-@author: Rakesh M R,Karan Saluja
-BITS PILANI
-2013A8PS362P,2013A3PS232P
-Design Oriented Project
+@author: Rakesh M R
 2016
 '''
 import numpy as np
